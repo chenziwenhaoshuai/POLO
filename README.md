@@ -3,8 +3,6 @@
 
 ## 🖼️ Poster
 
-You can view the summary of our method in the project poster below:
-
 ![POLO Poster](./polo_poster.jpg)
 
 This repository contains the official implementation of our paper:
