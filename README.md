@@ -3,7 +3,7 @@
 This repository contains the official implementation of our paper:
 
 **[POLO: Pose Estimation with One-Stage Location-Sensitive Coding](https://doi.org/10.1016/j.compag.2024.109384)**  
-Accepted at *Computers and Electronics in Agriculture*, 2024 and *CVPR-2025* CV4Animals workshop
+Accepted at **Computers and Electronics in Agriculture***, 2024 and **CVPR-2025** CV4Animals workshop
 
 ---
 
