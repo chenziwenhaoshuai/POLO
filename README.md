@@ -1,4 +1,11 @@
 # POLO: Pose Estimation with One-Stage Location-Sensitive Coding (CVPR-2025)
+---
+
+## 🖼️ Poster
+
+You can view the summary of our method in the project poster below:
+
+![POLO Poster](./polo_poster.jpg)
 
 This repository contains the official implementation of our paper:
 
@@ -31,13 +38,7 @@ We release the annotated multi-fish keypoint dataset used in the paper.
 
 👉 **[Download the dataset here](https://pan.baidu.com/s/1aR-7eGOOCIeoiIfrgTMO1Q?pwd=t1c4)**
 
----
 
-## 🖼️ Poster
-
-You can view the summary of our method in the project poster below:
-
-![POLO Poster](./polo_poster.jpg)
 
 ---
 
