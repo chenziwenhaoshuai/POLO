@@ -1,4 +1,4 @@
-# POLO: Pose Estimation with One-Stage Location-Sensitive Coding
+# POLO: Pose Estimation with One-Stage Location-Sensitive Coding (CVPR-2025)
 
 This repository contains the official implementation of our paper:
 
